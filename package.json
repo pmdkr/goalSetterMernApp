@@ -4,8 +4,8 @@
   "description": "GoalSetter app for learning the mern ",
   "main": "server.js",
   "scripts": {
-    "start":"node backend/server.js",
-    "server":"nodemon backend/server.js"
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
   },
   "author": "Pramod Lohra",
   "license": "ISC",
@@ -13,6 +13,7 @@
     "colors": "^1.4.0",
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
+    "mernapp": "file:",
     "mongoose": "^8.6.2"
   },
   "devDependencies": {
